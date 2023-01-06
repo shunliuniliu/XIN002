@@ -1,0 +1,4 @@
+Use WIFI to connect the robot, disconnect your mobile phone network data, open the browser and visit http://192.168.4.1
+00.wifi robot running test https://youtu.be/YmWVJWwuqLI
+01.Inventory of wifi robot parts https://youtu.be/KmHzzL0Q52Q
+02.Assembly teaching https://youtu.be/qFZEIDq7ZEE
